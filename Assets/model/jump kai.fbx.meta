@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 7515c897284b93049bb3fa93c13fb79c
+timeCreated: 1445239941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Curved Surface
+    100002: Curved Surface 1
+    100004: Curved Surface 2
+    100006: Curved Surface 3
+    100008: Curved Surface 4
+    100010: Curved Surface 5
+    100012: Extruded Closed Line
+    100014: Extruded Closed Line 1
+    100016: Extruded Closed Line 2
+    100018: Extruded Closed Line 3
+    100020: Extruded Closed Line 4
+    100022: Extruded Closed Line 5
+    100024: Extruded Closed Line 6
+    100026: Extruded Closed Line 7
+    100028: Extruded Closed Line 8
+    100030: Extruded Disk
+    100032: Extruded Disk 1
+    100034: Extruded Disk 10
+    100036: Extruded Disk 11
+    100038: Extruded Disk 12
+    100040: Extruded Disk 13
+    100042: Extruded Disk 14
+    100044: Extruded Disk 15
+    100046: Extruded Disk 16
+    100048: Extruded Disk 17
+    100050: Extruded Disk 18
+    100052: Extruded Disk 19
+    100054: Extruded Disk 2
+    100056: Extruded Disk 20
+    100058: Extruded Disk 21
+    100060: Extruded Disk 22
+    100062: Extruded Disk 23
+    100064: Extruded Disk 24
+    100066: Extruded Disk 25
+    100068: Extruded Disk 26
+    100070: Extruded Disk 27
+    100072: Extruded Disk 28
+    100074: Extruded Disk 29
+    100076: Extruded Disk 3
+    100078: Extruded Disk 30
+    100080: Extruded Disk 31
+    100082: Extruded Disk 32
+    100084: Extruded Disk 33
+    100086: Extruded Disk 34
+    100088: Extruded Disk 35
+    100090: Extruded Disk 36
+    100092: Extruded Disk 37
+    100094: Extruded Disk 38
+    100096: Extruded Disk 39
+    100098: Extruded Disk 4
+    100100: Extruded Disk 40
+    100102: Extruded Disk 41
+    100104: Extruded Disk 42
+    100106: Extruded Disk 43
+    100108: Extruded Disk 44
+    100110: Extruded Disk 45
+    100112: Extruded Disk 46
+    100114: Extruded Disk 47
+    100116: Extruded Disk 48
+    100118: Extruded Disk 49
+    100120: Extruded Disk 5
+    100122: Extruded Disk 50
+    100124: Extruded Disk 51
+    100126: Extruded Disk 52
+    100128: Extruded Disk 53
+    100130: Extruded Disk 54
+    100132: Extruded Disk 55
+    100134: Extruded Disk 56
+    100136: Extruded Disk 57
+    100138: Extruded Disk 58
+    100140: Extruded Disk 59
+    100142: Extruded Disk 6
+    100144: Extruded Disk 60
+    100146: Extruded Disk 61
+    100148: Extruded Disk 62
+    100150: Extruded Disk 63
+    100152: Extruded Disk 64
+    100154: Extruded Disk 65
+    100156: Extruded Disk 7
+    100158: Extruded Disk 8
+    100160: Extruded Disk 9
+    100162: //RootNode
+    100164: "K\u70B9"
+    100166: "K\u70B9 1"
+    100168: ski dai
+    100170: ski dai 1
+    100172: "\u3084\u307E"
+    100174: "\u3084\u307E 1"
+    100176: "\u3084\u307E 2"
+    100178: "\u3084\u307E 3"
+    100180: "\u3084\u307E\uFF12"
+    100182: "\u3084\u307E\uFF12 1"
+    100184: "\u3084\u307E\uFF13"
+    100186: "\u3084\u307E\uFF13 1"
+    100188: "\u3084\u307E\uFF15"
+    100190: "\u3084\u307E\uFF15 1"
+    100192: "\u3084\u307E\uFF16"
+    100194: "\u3084\u307E\uFF16 1"
+    100196: "\u3084\u307E\uFF17"
+    100198: "\u3084\u307E\uFF17 1"
+    100200: "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u3068\u3053"
+    100202: "\u53F0\u306E\u58401"
+    100204: "\u53F0\u306E\u58402"
+    100206: "\u7740\u5730\u53F0"
+    100208: "\u7740\u5730\u53F0 1"
+    100210: "\u7740\u5730\u58401"
+    100212: "\u7740\u5730\u58401 1"
+    100214: "\u7D42\u308F\u308A\u306E\u5834\u6240"
+    400000: Curved Surface
+    400002: Curved Surface 1
+    400004: Curved Surface 2
+    400006: Curved Surface 3
+    400008: Curved Surface 4
+    400010: Curved Surface 5
+    400012: Extruded Closed Line
+    400014: Extruded Closed Line 1
+    400016: Extruded Closed Line 2
+    400018: Extruded Closed Line 3
+    400020: Extruded Closed Line 4
+    400022: Extruded Closed Line 5
+    400024: Extruded Closed Line 6
+    400026: Extruded Closed Line 7
+    400028: Extruded Closed Line 8
+    400030: Extruded Disk
+    400032: Extruded Disk 1
+    400034: Extruded Disk 10
+    400036: Extruded Disk 11
+    400038: Extruded Disk 12
+    400040: Extruded Disk 13
+    400042: Extruded Disk 14
+    400044: Extruded Disk 15
+    400046: Extruded Disk 16
+    400048: Extruded Disk 17
+    400050: Extruded Disk 18
+    400052: Extruded Disk 19
+    400054: Extruded Disk 2
+    400056: Extruded Disk 20
+    400058: Extruded Disk 21
+    400060: Extruded Disk 22
+    400062: Extruded Disk 23
+    400064: Extruded Disk 24
+    400066: Extruded Disk 25
+    400068: Extruded Disk 26
+    400070: Extruded Disk 27
+    400072: Extruded Disk 28
+    400074: Extruded Disk 29
+    400076: Extruded Disk 3
+    400078: Extruded Disk 30
+    400080: Extruded Disk 31
+    400082: Extruded Disk 32
+    400084: Extruded Disk 33
+    400086: Extruded Disk 34
+    400088: Extruded Disk 35
+    400090: Extruded Disk 36
+    400092: Extruded Disk 37
+    400094: Extruded Disk 38
+    400096: Extruded Disk 39
+    400098: Extruded Disk 4
+    400100: Extruded Disk 40
+    400102: Extruded Disk 41
+    400104: Extruded Disk 42
+    400106: Extruded Disk 43
+    400108: Extruded Disk 44
+    400110: Extruded Disk 45
+    400112: Extruded Disk 46
+    400114: Extruded Disk 47
+    400116: Extruded Disk 48
+    400118: Extruded Disk 49
+    400120: Extruded Disk 5
+    400122: Extruded Disk 50
+    400124: Extruded Disk 51
+    400126: Extruded Disk 52
+    400128: Extruded Disk 53
+    400130: Extruded Disk 54
+    400132: Extruded Disk 55
+    400134: Extruded Disk 56
+    400136: Extruded Disk 57
+    400138: Extruded Disk 58
+    400140: Extruded Disk 59
+    400142: Extruded Disk 6
+    400144: Extruded Disk 60
+    400146: Extruded Disk 61
+    400148: Extruded Disk 62
+    400150: Extruded Disk 63
+    400152: Extruded Disk 64
+    400154: Extruded Disk 65
+    400156: Extruded Disk 7
+    400158: Extruded Disk 8
+    400160: Extruded Disk 9
+    400162: //RootNode
+    400164: "K\u70B9"
+    400166: "K\u70B9 1"
+    400168: ski dai
+    400170: ski dai 1
+    400172: "\u3084\u307E"
+    400174: "\u3084\u307E 1"
+    400176: "\u3084\u307E 2"
+    400178: "\u3084\u307E 3"
+    400180: "\u3084\u307E\uFF12"
+    400182: "\u3084\u307E\uFF12 1"
+    400184: "\u3084\u307E\uFF13"
+    400186: "\u3084\u307E\uFF13 1"
+    400188: "\u3084\u307E\uFF15"
+    400190: "\u3084\u307E\uFF15 1"
+    400192: "\u3084\u307E\uFF16"
+    400194: "\u3084\u307E\uFF16 1"
+    400196: "\u3084\u307E\uFF17"
+    400198: "\u3084\u307E\uFF17 1"
+    400200: "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u3068\u3053"
+    400202: "\u53F0\u306E\u58401"
+    400204: "\u53F0\u306E\u58402"
+    400206: "\u7740\u5730\u53F0"
+    400208: "\u7740\u5730\u53F0 1"
+    400210: "\u7740\u5730\u58401"
+    400212: "\u7740\u5730\u58401 1"
+    400214: "\u7D42\u308F\u308A\u306E\u5834\u6240"
+    2300000: Curved Surface 3
+    2300002: Curved Surface 4
+    2300004: Curved Surface 5
+    2300006: Extruded Closed Line
+    2300008: Extruded Closed Line 1
+    2300010: Extruded Closed Line 2
+    2300012: Extruded Closed Line 3
+    2300014: Extruded Closed Line 4
+    2300016: Extruded Closed Line 5
+    2300018: Extruded Closed Line 6
+    2300020: Extruded Closed Line 7
+    2300022: Extruded Closed Line 8
+    2300024: Extruded Disk
+    2300026: Extruded Disk 1
+    2300028: Extruded Disk 10
+    2300030: Extruded Disk 11
+    2300032: Extruded Disk 12
+    2300034: Extruded Disk 13
+    2300036: Extruded Disk 14
+    2300038: Extruded Disk 15
+    2300040: Extruded Disk 16
+    2300042: Extruded Disk 17
+    2300044: Extruded Disk 18
+    2300046: Extruded Disk 19
+    2300048: Extruded Disk 2
+    2300050: Extruded Disk 20
+    2300052: Extruded Disk 21
+    2300054: Extruded Disk 22
+    2300056: Extruded Disk 23
+    2300058: Extruded Disk 24
+    2300060: Extruded Disk 25
+    2300062: Extruded Disk 26
+    2300064: Extruded Disk 27
+    2300066: Extruded Disk 28
+    2300068: Extruded Disk 29
+    2300070: Extruded Disk 3
+    2300072: Extruded Disk 30
+    2300074: Extruded Disk 31
+    2300076: Extruded Disk 32
+    2300078: Extruded Disk 33
+    2300080: Extruded Disk 34
+    2300082: Extruded Disk 35
+    2300084: Extruded Disk 36
+    2300086: Extruded Disk 37
+    2300088: Extruded Disk 38
+    2300090: Extruded Disk 39
+    2300092: Extruded Disk 4
+    2300094: Extruded Disk 40
+    2300096: Extruded Disk 41
+    2300098: Extruded Disk 42
+    2300100: Extruded Disk 43
+    2300102: Extruded Disk 44
+    2300104: Extruded Disk 45
+    2300106: Extruded Disk 46
+    2300108: Extruded Disk 47
+    2300110: Extruded Disk 48
+    2300112: Extruded Disk 49
+    2300114: Extruded Disk 5
+    2300116: Extruded Disk 50
+    2300118: Extruded Disk 51
+    2300120: Extruded Disk 52
+    2300122: Extruded Disk 53
+    2300124: Extruded Disk 54
+    2300126: Extruded Disk 55
+    2300128: Extruded Disk 56
+    2300130: Extruded Disk 57
+    2300132: Extruded Disk 58
+    2300134: Extruded Disk 59
+    2300136: Extruded Disk 6
+    2300138: Extruded Disk 60
+    2300140: Extruded Disk 61
+    2300142: Extruded Disk 62
+    2300144: Extruded Disk 63
+    2300146: Extruded Disk 64
+    2300148: Extruded Disk 65
+    2300150: Extruded Disk 7
+    2300152: Extruded Disk 8
+    2300154: Extruded Disk 9
+    2300156: "K\u70B9"
+    2300158: "K\u70B9 1"
+    2300160: ski dai 1
+    2300162: "\u3084\u307E 2"
+    2300164: "\u3084\u307E 3"
+    2300166: "\u3084\u307E\uFF12 1"
+    2300168: "\u3084\u307E\uFF13 1"
+    2300170: "\u3084\u307E\uFF15 1"
+    2300172: "\u3084\u307E\uFF16 1"
+    2300174: "\u3084\u307E\uFF17 1"
+    2300176: "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u3068\u3053"
+    2300178: "\u53F0\u306E\u58401"
+    2300180: "\u53F0\u306E\u58402"
+    2300182: "\u7740\u5730\u53F0 1"
+    2300184: "\u7740\u5730\u58401"
+    2300186: "\u7740\u5730\u58401 1"
+    2300188: "\u7D42\u308F\u308A\u306E\u5834\u6240"
+    3300000: Curved Surface 3
+    3300002: Curved Surface 4
+    3300004: Curved Surface 5
+    3300006: Extruded Closed Line
+    3300008: Extruded Closed Line 1
+    3300010: Extruded Closed Line 2
+    3300012: Extruded Closed Line 3
+    3300014: Extruded Closed Line 4
+    3300016: Extruded Closed Line 5
+    3300018: Extruded Closed Line 6
+    3300020: Extruded Closed Line 7
+    3300022: Extruded Closed Line 8
+    3300024: Extruded Disk
+    3300026: Extruded Disk 1
+    3300028: Extruded Disk 10
+    3300030: Extruded Disk 11
+    3300032: Extruded Disk 12
+    3300034: Extruded Disk 13
+    3300036: Extruded Disk 14
+    3300038: Extruded Disk 15
+    3300040: Extruded Disk 16
+    3300042: Extruded Disk 17
+    3300044: Extruded Disk 18
+    3300046: Extruded Disk 19
+    3300048: Extruded Disk 2
+    3300050: Extruded Disk 20
+    3300052: Extruded Disk 21
+    3300054: Extruded Disk 22
+    3300056: Extruded Disk 23
+    3300058: Extruded Disk 24
+    3300060: Extruded Disk 25
+    3300062: Extruded Disk 26
+    3300064: Extruded Disk 27
+    3300066: Extruded Disk 28
+    3300068: Extruded Disk 29
+    3300070: Extruded Disk 3
+    3300072: Extruded Disk 30
+    3300074: Extruded Disk 31
+    3300076: Extruded Disk 32
+    3300078: Extruded Disk 33
+    3300080: Extruded Disk 34
+    3300082: Extruded Disk 35
+    3300084: Extruded Disk 36
+    3300086: Extruded Disk 37
+    3300088: Extruded Disk 38
+    3300090: Extruded Disk 39
+    3300092: Extruded Disk 4
+    3300094: Extruded Disk 40
+    3300096: Extruded Disk 41
+    3300098: Extruded Disk 42
+    3300100: Extruded Disk 43
+    3300102: Extruded Disk 44
+    3300104: Extruded Disk 45
+    3300106: Extruded Disk 46
+    3300108: Extruded Disk 47
+    3300110: Extruded Disk 48
+    3300112: Extruded Disk 49
+    3300114: Extruded Disk 5
+    3300116: Extruded Disk 50
+    3300118: Extruded Disk 51
+    3300120: Extruded Disk 52
+    3300122: Extruded Disk 53
+    3300124: Extruded Disk 54
+    3300126: Extruded Disk 55
+    3300128: Extruded Disk 56
+    3300130: Extruded Disk 57
+    3300132: Extruded Disk 58
+    3300134: Extruded Disk 59
+    3300136: Extruded Disk 6
+    3300138: Extruded Disk 60
+    3300140: Extruded Disk 61
+    3300142: Extruded Disk 62
+    3300144: Extruded Disk 63
+    3300146: Extruded Disk 64
+    3300148: Extruded Disk 65
+    3300150: Extruded Disk 7
+    3300152: Extruded Disk 8
+    3300154: Extruded Disk 9
+    3300156: "K\u70B9"
+    3300158: "K\u70B9 1"
+    3300160: ski dai 1
+    3300162: "\u3084\u307E 2"
+    3300164: "\u3084\u307E 3"
+    3300166: "\u3084\u307E\uFF12 1"
+    3300168: "\u3084\u307E\uFF13 1"
+    3300170: "\u3084\u307E\uFF15 1"
+    3300172: "\u3084\u307E\uFF16 1"
+    3300174: "\u3084\u307E\uFF17 1"
+    3300176: "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u3068\u3053"
+    3300178: "\u53F0\u306E\u58401"
+    3300180: "\u53F0\u306E\u58402"
+    3300182: "\u7740\u5730\u53F0 1"
+    3300184: "\u7740\u5730\u58401"
+    3300186: "\u7740\u5730\u58401 1"
+    3300188: "\u7D42\u308F\u308A\u306E\u5834\u6240"
+    4300000: "\u7740\u5730\u58401"
+    4300002: "\u3084\u307E"
+    4300004: "\u3084\u307E"
+    4300006: "\u3084\u307E\uFF15"
+    4300008: "\u3084\u307E\uFF16"
+    4300010: "\u7D42\u308F\u308A\u306E\u5834\u6240"
+    4300012: Extruded Closed Line
+    4300014: Extruded Closed Line
+    4300016: Extruded Closed Line
+    4300018: Extruded Closed Line
+    4300020: Extruded Closed Line
+    4300022: Extruded Closed Line
+    4300024: Extruded Closed Line
+    4300026: Extruded Closed Line
+    4300028: Extruded Closed Line
+    4300030: "K\u70B9"
+    4300032: "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u3068\u3053"
+    4300034: "K\u70B9"
+    4300036: "\u7740\u5730\u58401"
+    4300038: "\u7740\u5730\u53F0"
+    4300040: "\u53F0\u306E\u58401"
+    4300042: "\u53F0\u306E\u58402"
+    4300044: ski dai
+    4300046: Extruded Disk
+    4300048: Extruded Disk
+    4300050: Extruded Disk
+    4300052: Extruded Disk
+    4300054: Extruded Disk
+    4300056: Extruded Disk
+    4300058: Extruded Disk
+    4300060: Extruded Disk
+    4300062: Extruded Disk
+    4300064: Extruded Disk
+    4300066: Extruded Disk
+    4300068: Extruded Disk
+    4300070: Extruded Disk
+    4300072: Extruded Disk
+    4300074: Extruded Disk
+    4300076: Extruded Disk
+    4300078: Extruded Disk
+    4300080: Extruded Disk
+    4300082: Extruded Disk
+    4300084: Extruded Disk
+    4300086: Extruded Disk
+    4300088: Extruded Disk
+    4300090: Extruded Disk
+    4300092: Extruded Disk
+    4300094: Extruded Disk
+    4300096: Extruded Disk
+    4300098: Extruded Disk
+    4300100: Extruded Disk
+    4300102: Extruded Disk
+    4300104: Extruded Disk
+    4300106: Extruded Disk
+    4300108: Extruded Disk
+    4300110: Extruded Disk
+    4300112: Extruded Disk
+    4300114: Extruded Disk
+    4300116: Extruded Disk
+    4300118: Extruded Disk
+    4300120: Extruded Disk
+    4300122: Extruded Disk
+    4300124: Extruded Disk
+    4300126: Extruded Disk
+    4300128: Extruded Disk
+    4300130: Extruded Disk
+    4300132: Extruded Disk
+    4300134: Extruded Disk
+    4300136: Extruded Disk
+    4300138: Extruded Disk
+    4300140: Extruded Disk
+    4300142: Extruded Disk
+    4300144: Extruded Disk
+    4300146: Extruded Disk
+    4300148: Extruded Disk
+    4300150: Extruded Disk
+    4300152: Extruded Disk
+    4300154: Extruded Disk
+    4300156: Extruded Disk
+    4300158: Extruded Disk
+    4300160: Extruded Disk
+    4300162: Extruded Disk
+    4300164: Extruded Disk
+    4300166: Extruded Disk
+    4300168: Extruded Disk
+    4300170: Extruded Disk
+    4300172: Extruded Disk
+    4300174: Extruded Disk
+    4300176: Extruded Disk
+    4300178: "\u3084\u307E\uFF12"
+    4300180: "\u3084\u307E\uFF13"
+    4300182: "\u3084\u307E\uFF17"
+    4300184: Curved Surface
+    4300186: Curved Surface
+    4300188: Curved Surface
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
